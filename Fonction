@@ -68,3 +68,16 @@ function compteur(){
 <h1 onclick = "console.log(monCompteur1())">COMPTEUR DE CLIQUES</h1> // on appelle pas la fonction mais la variable
 <h2 onclick = "console.log(monCompteurDeLIke())">COMPTEUR DE LIKE</h2>
 <h1 onclick = "i = 5000"><h1>
+
+autre exemple :
+function multiplyBy(number){
+  const closeVariable = (anotherNumber){
+    return function (anotherNumber){
+      return closeVariable * anotherNumber;
+    }
+ }  
+ console.log(multiplyBy);
+  console.log(multiplyByFive);
+   console.log(multiplyByFive(5));
+    console.log(multiplyByFive(3));
+
