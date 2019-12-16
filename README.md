@@ -1,2 +1,2 @@
 # javascript-world
-tous sur le monde de javascript  code, web, game.
+tout sur le monde de javascript  code, web, game.
