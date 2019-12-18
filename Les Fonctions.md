@@ -1,5 +1,5 @@
 # Les fonctions
-> #### Nomée:  
+> ### Nomée:  
 > ``` 
 > function myfonction(){  
 > console.log(" je suis une fonction "); 
