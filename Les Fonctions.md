@@ -19,7 +19,7 @@
 
 > ### Anonyme:
 > ```
-> unction(){ 
+> function(){ 
 > console.log(" je suis une fonction anonyme")
 > }  
 > function(); // elle ne peut pas être executer car elle est anonyme 
