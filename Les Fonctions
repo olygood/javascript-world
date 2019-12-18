@@ -1,10 +1,10 @@
 # Les fonctions
-…
+´´´
 function myfonction(){
   console.log("je suis une fonction")
 }
 myfonction(); // je suis une fonction
-…
+´´´
 function myfonction(argument){
   console.log(" je suis une fonction" + argument)
 }
