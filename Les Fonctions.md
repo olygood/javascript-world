@@ -6,7 +6,7 @@
 > }    
 > myfonction(); // je suis une fonction 
 > ```  
-*** 
+> *** 
 
 > ### Nomée avec arguments :
 > ```
@@ -15,7 +15,7 @@
 > } 
 > myfonction(" javasript"); // je suis une fonction javascript 
 > ``` 
-*** 
+> *** 
 
 > ### Anonyme:
 > ```
