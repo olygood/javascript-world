@@ -24,14 +24,14 @@
 > }  
 > function(); // elle ne peut pas être executer car elle est anonyme 
 > alors on doit l‘assigner/affecter dans une variable 
-> ```
 > *** 
+> var func = function(a){ 
+> console.log(" je suis une fonction" + a) 
+>} 
+> func(" dans une variable"); 
+> ``` 
+> ***
 
-
-var func = function(a){
-   console.log(" je suis une fonction" + a)
-}
-func(" dans une variable");
 
 auto invoquée :
 (function(){
